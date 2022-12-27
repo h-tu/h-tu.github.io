@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a MSCS student at UMass, Amherst. My interests are CV, RL, NLP and Robotics. 
-
----
-Paper for my COMP SCI 696DS research project is done, view it under course tab. 
+Recent work: 
+https://openreview.net/forum?id=kLzFuf4GoC-&referrer=%5Bthe%20profile%20of%20Hongyu%20Tu%5D
 
 --- 
 
