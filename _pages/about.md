@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Recent work: 
-https://openreview.net/forum?id=kLzFuf4GoC-&referrer=%5Bthe%20profile%20of%20Hongyu%20Tu%5D
+Recent work: [Retrosynthesis Prediction Revisited](https://openreview.net/forum?id=kLzFuf4GoC-&referrer=%5Bthe%20profile%20of%20Hongyu%20Tu%5D)
 
 --- 
 
