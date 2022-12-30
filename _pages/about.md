@@ -9,7 +9,10 @@ redirect_from:
 ---
 
 Recent work: 
-From my CS696 Course, our paper was submiited to NeurIPS 2022 worksop. View paper here: [Retrosynthesis Prediction Revisited](https://research.ibm.com/publications/retrosynthesis-prediction-revisited)
+
+From my CS696 Course, our paper was submiited to NeurIPS 2022 worksop. 
+
+View paper here: [Retrosynthesis Prediction Revisited](https://research.ibm.com/publications/retrosynthesis-prediction-revisited)
 
 --- 
 
