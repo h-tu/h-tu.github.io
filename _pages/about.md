@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Recent work: [Retrosynthesis Prediction Revisited](https://openreview.net/forum?id=kLzFuf4GoC-&referrer=%5Bthe%20profile%20of%20Hongyu%20Tu%5D)
+Recent work: 
+From my CS696 Course, our paper was submiited to NeurIPS 2022 worksop. View paper here: [Retrosynthesis Prediction Revisited](https://research.ibm.com/publications/retrosynthesis-prediction-revisited)
 
 --- 
 

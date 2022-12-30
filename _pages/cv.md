@@ -11,7 +11,7 @@ redirect_from:
 
 PDF version of my CV can be found here: [Hongyu Tu CV](https://umass-my.sharepoint.com/:b:/g/personal/hongyutu_umass_edu/Ed431rF0WStJvaKoBcnuvfABWR_-4D2jI5HZwKcUmfLDRA?e=GtHJrZ)
 
-Education
+<!-- Education
 ======
 * University of Massachusetts, Amherst
   * M.S. in Computer Science
@@ -84,4 +84,4 @@ Skills
   * pandas, Numpy, Matplotlib
   * Flask
 * Tools
-  * Linux, Git
+  * Linux, Git -->

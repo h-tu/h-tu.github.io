@@ -9,20 +9,16 @@ author_profile: true
 
 Graduate Courses
 ======
-* Fall 2022
-    * COMP SCI 514: Algorithms for Data Science
-    * COMP SCI 532: Systems for Data Science
-    * COMP SCI 646: Information Retrieval
+* TODO
+    * COMPSCI 674: Intelligent Visual Computing
 
-* Spring 2022
-    * COMP SCI 685: Advanced Natural Language Processing
-    * COMP SCI 688: Probabilistic Graphical
-    * COMP SCI 696DS: Industry Mentorship Independent Study ([IBM - Revisiting Retrosynthesis](https://github.com/h-tu/course_reports/blob/main/Retrosynthesis_Prediction_Revisited.pdf))
-
-* Fall 2021
-    * COMP SCI 682: Neural Networks: Modern Intro ([Final project](https://github.com/h-tu/course_reports/blob/main/cs682/682_Final_Paper.pdf))
-    * COMP SCI 687: Reinforcement Learning ([Final project](https://github.com/h-tu/course_reports/blob/main/cs687/687_Final.pdf))
+* Completed
+    * COMP SCI 696DS: Industry Mentorship Independent Study ([with IBM - Retrosynthesis Prediction Revisited](https://research.ibm.com/publications/retrosynthesis-prediction-revisited))
     * COMP SCI 689: Machine Learning
+    * COMP SCI 688: Probabilistic Graphical
+    * COMP SCI 687: Reinforcement Learning ([Final project](https://github.com/h-tu/course_reports/blob/main/cs687/687_Final.pdf))
+    * COMP SCI 685: Advanced Natural Language Processing ([BiliMemeNet: Using NLP to Learn Chinese Meme From Bullet Chat](https://github.com/h-tu/course_reports/blob/main/grad_projects/cs685_BiliMemeNet.pdf))
+    * COMP SCI 682: Neural Networks: Modern Intro ([Playing Arcade Game with Object Recognition and Reinforcement Learning](https://github.com/h-tu/course_reports/blob/main/grad_projects/682_Final_Paper.pdf))
     
 Undergraduate Courses
 ======
