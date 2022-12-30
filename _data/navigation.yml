@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "CV"
-    url: /cv/
-
   - title: "Courses"
     url: /courses/   
 
@@ -11,6 +8,9 @@ main:
 
   - title: "Internship"
     url: /internship/    
+
+  - title: "CV"
+    url: /cv/
         
   - title: "Personal"
     url: /personal/
