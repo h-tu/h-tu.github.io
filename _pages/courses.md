@@ -19,7 +19,7 @@ Graduate Courses
     * COMPSCI 687: Reinforcement Learning ([Final project](https://github.com/h-tu/course_reports/blob/main/cs687/687_Final.pdf))
     * COMPSCI 685: Advanced Natural Language Processing ([BiliMemeNet: Using NLP to Learn Chinese Meme From Bullet Chat](https://github.com/h-tu/course_reports/blob/main/grad_projects/cs685_BiliMemeNet.pdf))
     * COMPSCI 682: Neural Networks: Modern Intro ([Playing Arcade Game with Object Recognition and Reinforcement Learning](https://github.com/h-tu/course_reports/blob/main/grad_projects/682_Final_Paper.pdf))
-    * COMPSCI 532: Systems for Data Science [Scalable System For Machine Learning Applied to Image Rating](https://github.com/h-tu/course_reports/blob/main/grad_projects/532_Final_Report__2_.pdf)
+    * COMPSCI 532: Systems for Data Science ([Scalable System For Machine Learning Applied to Image Rating](https://github.com/h-tu/course_reports/blob/main/grad_projects/532_Final_Report__2_.pdf))
     * COMPSCI 514: Algorithms for Data Science
     
 Undergraduate Courses
