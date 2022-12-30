@@ -10,9 +10,10 @@ redirect_from:
 {% include base_path %}
 
 * Spring 2022: Re-visiting Retrosynthesis
-  * University of Massachusetts, Amherst
+  * University of Massachusetts, Amherst & IBM
   * Evaluated the multi-step performance of 6 existing single-steps models for retrosynthesis analysis.
   * Augmented the data and proposed new metrics for model evaluation.
+  * [Retrosynthesis Prediction Revisited](https://research.ibm.com/publications/retrosynthesis-prediction-revisited)
 
 * Fall 2020: Undergraduate Research
   * University of Maryland
