@@ -20,7 +20,7 @@ End of Fall 2021 semester update:
 
 For my COMP SCI 682 final project, I made a program that plays the computer game "crossy road" by itself using Computer Vision and Reinforcement learning. 
 
-Paper can be found here: [682 Paper](https://github.com/h-tu/course_reports/blob/main/grad_projects/682_Final_Paper.pdf).
+Paper can be found in course page. 
 
 Here is a visual demo:
 
