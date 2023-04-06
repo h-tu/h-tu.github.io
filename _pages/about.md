@@ -18,9 +18,7 @@ View paper here: [Retrosynthesis Prediction Revisited](https://research.ibm.com/
 
 End of Fall 2021 semester update: 
 
-For my COMP SCI 682 final project, I made a program that plays the computer game "crossy road" by itself using Computer Vision and Reinforcement learning. 
-
-Paper can be found in course page. 
+For my COMP SCI 682 final project, I made a program that plays the computer game "crossy road" by itself using Computer Vision and Reinforcement learning. ([Playing Arcade Game with Object Recognition and Reinforcement Learning](https://github.com/h-tu/course_reports/blob/main/grad_projects/682_Final_Paper.pdf))
 
 Here is a visual demo:
 
