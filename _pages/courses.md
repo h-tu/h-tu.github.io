@@ -61,6 +61,6 @@ Undergraduate Courses
     * Math 461: Linear Algebra for Scientists and Engineers
     * MATH 401: Applications of Linear Algebra
     * MATH 246: Differential Equations for Scientists and Engineers
-    * Physics 261: Vibrations, Waves, Heat, Electricity & Magnetism: Laboratory
-    * Physics 260: Vibrations, Waves, Heat, Electricity & Magnetism
+    * PHYS 261: Vibrations, Waves, Heat, Electricity & Magnetism: Laboratory
+    * PHYS 260: Vibrations, Waves, Heat, Electricity & Magnetism
     * CHEM 135: General Chemistry for Engineers
