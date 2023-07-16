@@ -6,6 +6,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
+---
+Right now I'm involved in a 6-month ARVR Research Project in Austin, Texas. I'm actively looking for jobs starting January 2024 and PHD programs starting Fall 2024. 
+
 ---
 
 Recent work: 
@@ -23,3 +27,7 @@ For my COMP SCI 682 final project, I made a program that plays the computer game
 Here is a visual demo:
 
 ![img](images/showcase.gif)
+
+--- 
+
+Website was last updated on July 16, 2023. 

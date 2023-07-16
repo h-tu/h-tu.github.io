@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-PDF version of my CV can be found here: [Hongyu Tu CV](https://umass-my.sharepoint.com/:b:/g/personal/hongyutu_umass_edu/Ed431rF0WStJvaKoBcnuvfABWR_-4D2jI5HZwKcUmfLDRA?e=GtHJrZ)
+PDF version of my CV can be found here: <a href="h-tu.github.io/files/Hongyu_Tu_CV.pdf" target="_blank">PDF.</a>
+
 
 <!-- Education
 ======

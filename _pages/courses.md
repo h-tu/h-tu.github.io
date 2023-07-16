@@ -9,10 +9,7 @@ author_profile: true
 
 Graduate Courses
 ======
-* In progress
-    * COMPSCI 674: Intelligent Visual Computing
-
-* Completed
+    * COMPSCI 674: Intelligent Visual Computing ([Cross_Modal_Shape_Generation_Introspection.pdf](https://github.com/h-tu/course_reports/blob/main/grad_projects/Cross_Modal_Shape_Generation_Introspection.pdf))
     * COMPSCI 696DS: Industry Mentorship Independent Study ([Retrosynthesis Prediction Revisited (IBM)](https://research.ibm.com/publications/retrosynthesis-prediction-revisited), [OpenReview](https://openreview.net/forum?id=kLzFuf4GoC-))
     * COMPSCI 689: Machine Learning
     * COMPSCI 688: Probabilistic Graphical Models
