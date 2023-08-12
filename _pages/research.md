@@ -13,13 +13,13 @@ redirect_from:
   * University of Massachusetts, Amherst & IBM
   * Evaluated the multi-step performance of 6 existing single-steps models for retrosynthesis analysis.
   * Augmented the data and proposed new metrics for model evaluation.
-  * [Retrosynthesis Prediction Revisited](https://research.ibm.com/publications/retrosynthesis-prediction-revisited)
+  * NeruIPS 2022 Workshop paper: [Retrosynthesis Prediction Revisited](https://research.ibm.com/publications/retrosynthesis-prediction-revisited)
+
 
 * Fall 2020: Undergraduate Research
   * University of Maryland
-  * Proposed to use the robot arm to interact with objects to maximize the perception of the object during object identification, especially, recover the lost information caused by objects concealed by each other.
-  * Conducted the simulation experiments with the ML_Agents library of the Unity game engine.
-  * Participated in the reinforcement learning training of the mechanical arm in the virtual environment by setting up virtual environment, adjusting the setting parameters, reward and penalty, etc.
+  * Proposed to use the robot arm to interact with objects to maximize the perception of the object during object identification through recovering the lost information caused by objects concealed by each other.
+  * Used Unity game engine’s reinforcement learning library called ML_Agents to train for robotic arm’s control policy. 
 
 
 * Fall 2017: FIRE Program, Machine Learning stream

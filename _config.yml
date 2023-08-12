@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Hongyu Tu"
   avatar           : "profile.png"
-  bio              : "MSCS student at UMass Amherst"
-  location         : "Amherst, MA"
+  bio              : ""
+  location         : "Austin, TX"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -99,7 +99,7 @@ author:
   github           : "h-tu"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "lesssojupls.arw"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
