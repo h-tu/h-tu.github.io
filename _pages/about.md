@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 
 ---
-Right now I'm involved in a 6-month ARVR Research Project in Austin, Texas. I'm actively looking for jobs or Phd Programs starting 2024. 
+Currently I'm involved in a 6-month ARVR Research Project in Austin, Texas. I'm actively looking for jobs or PhD Programs starting 2024. 
 
 ---
 

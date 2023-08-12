@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-PDF version of my CV can be found here: <a href="h-tu.github.io/files/Hongyu_Tu_CV.pdf" target="_blank">PDF.</a>
+PDF version of my CV can be found here: <a href="https://www.icloud.com/iclouddrive/0a8CpH82xu6jxs25AQ_tRR6pg#Hongyu_Tu_CV_(AUG)" target="_blank">PDF.</a>
 
 
 <!-- Education
