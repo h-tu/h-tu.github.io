@@ -16,7 +16,7 @@ Currently I'm involved in a 6-month ARVR Research Project in Austin, Texas. I'm 
 ---
 End of Summer 2022 Update: 
 
-NeurIPS 2022 worksop paper for Research project with IBM: [Retrosynthesis Prediction Revisited](https://research.ibm.com/publications/retrosynthesis-prediction-revisited)
+NeurIPS 2022 worksop paper from Research project with IBM: [Retrosynthesis Prediction Revisited](https://research.ibm.com/publications/retrosynthesis-prediction-revisited)
 
 --- 
 
