@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 
 ---
+
+End of Spring 2023 Update: 
+
 Currently I'm involved in a 6-month ARVR Research Project in Austin, Texas. I'm actively looking for jobs or PhD Programs starting 2024. 
 
 ---
+End of Summer 2022 Update: 
 
-From my CS696 Course, our paper was submiited to NeurIPS 2022 worksop. 
-
-View paper here: [Retrosynthesis Prediction Revisited](https://research.ibm.com/publications/retrosynthesis-prediction-revisited)
+NeurIPS 2022 worksop paper for Research project with IBM: [Retrosynthesis Prediction Revisited](https://research.ibm.com/publications/retrosynthesis-prediction-revisited)
 
 --- 
 
