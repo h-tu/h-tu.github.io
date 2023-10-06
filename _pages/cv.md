@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Hongyu Tu CV](http://academicpages.github.io/files/Hongyu_Tu_CV.pdf)
+[Hongyu Tu CV](http://h-tu.github.io/files/Hongyu_Tu_CV.pdf)
 
 <!-- PDF version of my CV can be found here: <a href="https://www.icloud.com/iclouddrive/0a8CpH82xu6jxs25AQ_tRR6pg#Hongyu_Tu_CV_(AUG)" target="_blank">PDF.</a> -->
 
