@@ -3,13 +3,16 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+paperurl: 'http://academicpages.github.io/files/Hongyu_Tu_CV.pdf'
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
 
-PDF version of my CV can be found here: <a href="https://www.icloud.com/iclouddrive/0a8CpH82xu6jxs25AQ_tRR6pg#Hongyu_Tu_CV_(AUG)" target="_blank">PDF.</a>
+[Hongyu Tu CV](http://academicpages.github.io/files/Hongyu_Tu_CV.pdf)
+
+<!-- PDF version of my CV can be found here: <a href="https://www.icloud.com/iclouddrive/0a8CpH82xu6jxs25AQ_tRR6pg#Hongyu_Tu_CV_(AUG)" target="_blank">PDF.</a> -->
 
 
 <!-- Education

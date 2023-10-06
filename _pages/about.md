@@ -11,7 +11,9 @@ redirect_from:
 --- 
 October Update: 
 
-I've started on a side AR project aim to help guitar learner memorize notes on fretboard with tracking, 3D graphics, etc. More details will be available soon! 
+I've started on a side AR project aim to help guitar learner memorize notes on fretboard. More details will be available soon! 
+
+![img](images/gp.png)
 
 ---
 
