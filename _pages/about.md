@@ -7,6 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 
+
+--- 
+October Update: 
+
+I've started on a side AR project aim to help guitar learner which includes tracking, 3D graphics, etc. More details will be available soon! 
+
 ---
 
 End of Spring 2023 Update: 
@@ -30,4 +36,4 @@ Here is a visual demo:
 
 --- 
 
-Website was last updated on Aug 12, 2023. 
+Website was last updated on Oct 5, 2023. 
