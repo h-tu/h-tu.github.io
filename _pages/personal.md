@@ -8,7 +8,7 @@ redirect_from:
 
 
 * Photography
-  <img src='/images/p1.jpg'>
+  <img src='/images/p1.jpg' style="max-width: 25%;">
   <img src='/images/p2.jpg'>
   <img src='/images/p3.jpg'>
   <img src='/images/p4.jpg'>

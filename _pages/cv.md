@@ -3,7 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-paperurl: 'http://academicpages.github.io/files/Hongyu_Tu_CV.pdf'
+paperurl: 'http://h-tu.github.io/files/Hongyu_Tu_CV.pdf'
 redirect_from:
   - /resume
 ---
