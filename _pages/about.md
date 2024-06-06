@@ -13,7 +13,7 @@ June 2024 Update:
 
 I'm currently involved in a Research Project working on DL Based Visual SLAM. For more details on what I do please visit the research page. 
 
-![img](images/yolo.gif)
+![img](images/yolo_mask.png)
 
 ---
 End of Summer 2022 Update: 
