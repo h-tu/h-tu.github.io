@@ -7,19 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 
-
---- 
-October Update: 
-
-I've started on a side AR project aim to help guitar learner memorize notes on fretboard. More details will be available soon! 
-
-![img](images/gp.png)
-
 ---
 
-End of Spring 2023 Update: 
+June 2024 Update: 
 
-Currently, I'm involved in a 6-month ARVR Research Project in Austin, Texas. For more details on what I do please visit the internship page. 
+I'm currently involved in a Research Project working on DL Based Visual SLAM. For more details on what I do please visit the research page. 
+
+![img](images/yolo.gif)
 
 ---
 End of Summer 2022 Update: 

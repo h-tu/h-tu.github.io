@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+* Spring 2024: DL Based Visual SLAM: 
+  * Develop in progess. 
+  * Topics: SuperPoint, SuperGlue, ORB-SLAM, Masking
+  
+  ![img](images/slam.gif)
+
 * Spring 2022: Re-visiting Retrosynthesis
   * University of Massachusetts, Amherst & IBM
   * Evaluated the multi-step performance of 6 existing single-steps models for retrosynthesis analysis.
