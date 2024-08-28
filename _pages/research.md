@@ -12,8 +12,8 @@ redirect_from:
 * Spring 2024: DL Based Visual SLAM: 
   * Develop in progess. 
   * Topics: SuperPoint, SuperGlue, ORB-SLAM, Masking
-  
-  ![img](images/slam.gif)
+
+  ![img](images/slam.png)
 
 * Spring 2022: Re-visiting Retrosynthesis
   * University of Massachusetts, Amherst & IBM

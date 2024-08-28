@@ -11,7 +11,7 @@ redirect_from:
 
 June 2024 Update: 
 
-I'm currently involved in a Research Project working on DL Based Visual SLAM. For more details on what I do please visit the research page. 
+I'm working on DL Based Visual SLAM with TensorRT Hardware Accelaration. For more details on what I do please visit the research page. 
 
 ![img](images/yolo_mask.png)
 
@@ -32,4 +32,4 @@ Here is a visual demo:
 
 --- 
 
-Website was last updated on April 13, 2024. 
+Website was last updated on Aug 28, 2024. 
