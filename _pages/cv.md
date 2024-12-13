@@ -10,9 +10,15 @@ redirect_from:
 
 {% include base_path %}
 
-[Hongyu Tu Work CV](http://h-tu.github.io/files/Hongyu_Tu_SWE.pdf)
+[Hongyu Tu CV](http://h-tu.github.io/files/Hongyu_Tu_CV_F24.pdf)
 
-[Hongyu Tu Academic CV](http://h-tu.github.io/files/Hongyu_Tu_MLE.pdf)
+
+Last Update: Dec 13, 2024
+
+
+<!-- [Hongyu Tu Work CV](http://h-tu.github.io/files/Hongyu_Tu_SWE.pdf)
+
+[Hongyu Tu Academic CV](http://h-tu.github.io/files/Hongyu_Tu_MLE.pdf) -->
 
 <!-- PDF version of my CV can be found here: <a href="https://www.icloud.com/iclouddrive/0a8CpH82xu6jxs25AQ_tRR6pg#Hongyu_Tu_CV_(AUG)" target="_blank">PDF.</a> -->
 
