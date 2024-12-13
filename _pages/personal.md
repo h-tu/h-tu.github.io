@@ -7,15 +7,17 @@ redirect_from:
 ---
 
 * Doggo
+
   <img src='/images/d2.jpg' style="max-width: 25%;">
   <img src='/images/d3.jpg' style="max-width: 25%;">
   <img src='/images/d1.JPEG' style="max-width: 25%;">
 
 * Music
+
   - Level Ten Certified in Hulusi, a traditional Chinese Music Instrument
   - Joined school wind ensemble in middle school and learned Saxophone
   - Self-Taught Acoustic Guitar since high school, then Electric Guitar now
-  - I love building my pedal board. s
+  - I love building my pedal board. 
 
   <img src='/images/g1.png' style="max-width: 25%;">
   <img src='/images/g2.png' style="max-width: 25%;">
@@ -63,4 +65,5 @@ redirect_from:
   - Started watching and (then) playing basketball after Steph Curry won his first title
   
   <img src='/images/b1.png' style="max-width: 50%;">
-  (at TD Garden, NBA Finals G6, Steph Curry won his fourth title)
+
+  (at TD Garden, 2022 NBA Finals G6, Steph Curry won his fourth title)
