@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 * Doggo
+  - Below is a Samoyed
 
   <img src='/images/d2.jpg' style="max-width: 25%;">
   <img src='/images/d3.jpg' style="max-width: 25%;">
@@ -33,11 +34,11 @@ redirect_from:
     - Stratton, VT
 
   <img src='/images/s2.jpeg' style="max-width: 25%;">
-  <img src='/images/s3.jpg' style="max-width: 25%;">
   <img src='/images/s1.png' style="max-width: 25%;">
+  <img src='/images/s3.jpg' style="max-width: 25%;">
 
 * Photography
-  - Click instagram on left for more
+  - Click Instagram on left for more
   - A7M3 + 20 G, 35 GM, Sigma 105, 24-105 G, Sigma 100-400
   - DJI Mini 3 Pro
   - DJI RS4
@@ -63,7 +64,5 @@ redirect_from:
 
 * Basketball
   - Started watching and (then) playing basketball after Steph Curry won his first title
-  
+  - At TD Garden, 2022 NBA Finals G6, Steph Curry won his fourth title: 
   <img src='/images/b1.png' style="max-width: 50%;">
-
-  (at TD Garden, 2022 NBA Finals G6, Steph Curry won his fourth title)
