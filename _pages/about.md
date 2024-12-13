@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 
 
-
+--- 
 
 - My research focuses are: Machine Learning, (Deep) Reinforcement Learning, Robotics, Perception
 - I went to University of MaryLand from '17 to '21 for BS in Computer Engineering with an upper-level concentration in machine learning
