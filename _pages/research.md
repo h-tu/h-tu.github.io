@@ -10,10 +10,12 @@ redirect_from:
 {% include base_path %}
 
 * Spring 2024: DL Based Visual SLAM: 
-  * Develop in progess. 
-  * Topics: SuperPoint, SuperGlue, ORB-SLAM, Masking
+  * Topics: SuperPoint, SuperGlue, ORB-SLAM, Masking, 3DGS
+  * Improving visual simultaneous localization and mapping (VSLAM) performance for vehicle navigation
+  * Developing deep-learning-based feature extraction and matching pipelines
+  * Using 3D Gaussian Splatting and precise camera calibration to enhance the system’s onboard perception capabilities
 
-  ![img](images/slam.png)
+  <img src='/images/slam.png' style="max-width: 25%;">
 
 * Spring 2022: Re-visiting Retrosynthesis
   * University of Massachusetts, Amherst & IBM

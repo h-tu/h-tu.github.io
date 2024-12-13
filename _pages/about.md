@@ -11,7 +11,7 @@ redirect_from:
 --- 
 
 - My research focuses are: Machine Learning, (Deep) Reinforcement Learning, Robotics, Perception
-- I went to University of MaryLand from '17 to '21 for BS in Computer Engineering with an upper-level concentration in machine learning
+- I went to University of Maryland from '17 to '21 for BS in Computer Engineering with an upper-level concentration in machine learning
 - During my MSCS studies at University of Massachusetts Amherst, out of 10 courses, I completed 8 in PhD level, each with a final project
 - Working as Researcher & Software Developer since graduating in May 2023. 
 - Currently Seeking PhD Postions for Fall 2025. 
