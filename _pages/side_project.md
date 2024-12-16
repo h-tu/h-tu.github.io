@@ -12,10 +12,10 @@ redirect_from:
 
 * AR Guitar
   * Develop In Progress
-  * Auto-Detect Strings and Frets on any guitar's fretboard with RGB Input 
-  * Augment fretboard real-time, enabling user to see notes on their guitar (image 2)
+  * Auto-Detect Strings and Frets on any guitar's fretboard with RGB Input (Left)
+  * Augment fretboard real-time, enabling user to see notes on their guitar (Top right)
   * Finger Tracking to check if user is pressing the right node/chord
-  * Highlight pentatonic for memorization (image 3)
+  * Highlight pentatonic for memorization (Bottom right)
 
   * <img src='/images/sample1.png' style="max-width: 75%;">
 
