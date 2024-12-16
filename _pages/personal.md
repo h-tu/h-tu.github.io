@@ -7,11 +7,11 @@ redirect_from:
 ---
 
 * Doggo
-  - Below is a Samoyed
+  - Shown below is a Samoyed
 
   <img src='/images/d2.jpg' style="max-width: 25%;">
   <img src='/images/d3.jpg' style="max-width: 25%;">
-  <img src='/images/d1.JPEG' style="max-width: 25%;">
+  <img src='/images/d1.png' style="max-width: 25%;">
 
 * Music
 
@@ -63,6 +63,6 @@ redirect_from:
   <img src='/images/m3.jpg' style="max-width: 25%;">
 
 * Basketball
-  - Started watching and (then) playing basketball after Steph Curry won his first title
-  - At TD Garden, 2022 NBA Finals G6, Steph Curry won his fourth title: 
+  - Started watching and (then) playing basketball after Stephen Curry won his first title
+  - At TD Garden, 2022 NBA Finals G6, Steph won his fourth title: 
   <img src='/images/b1.png' style="max-width: 50%;">
