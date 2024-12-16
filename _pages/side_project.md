@@ -17,9 +17,7 @@ redirect_from:
   * Finger Tracking to check if user is pressing the right node/chord
   * Highlight pentatonic for memorization (image 3)
 
-  * <img src='/images/sample1.jpg' style="max-width: 75%;">
-  * <img src='/images/sample2.png' style="max-width: 75%;">
-  * <img src='/images/sample3.png' style="max-width: 75%;">
+  * <img src='/images/sample1.png' style="max-width: 75%;">
 
 * Others
   * [Instagram Downloader](https://github.com/h-tu/gizmo_collection/blob/master/other/grab_ig.py)
