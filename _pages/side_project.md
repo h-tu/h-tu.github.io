@@ -12,12 +12,12 @@ redirect_from:
 
 * AR Guitar
   * Develop In Progress
-  * Auto-Detect Strings and Frets on any guitar's fretboard with RGB Input (Left)
+  * Auto-Detect Strings and Frets on any guitar's fretboard with RGB Input (Middle)
   * Augment fretboard real-time, enabling user to see notes on their guitar (Top right)
-  * Finger Tracking to check if user is pressing the right node/chord
+  * Finger Tracking to check if user is pressing the right node/chord (Left)
   * Highlight pentatonic for memorization (Bottom right)
 
-  * <img src='/images/sample1.png' style="max-width: 75%;">
+  * <img src='/images/sample0.png'>
 
 * Others
   * [Instagram Downloader](https://github.com/h-tu/gizmo_collection/blob/master/other/grab_ig.py)
