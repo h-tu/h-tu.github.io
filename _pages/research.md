@@ -14,7 +14,7 @@ redirect_from:
   * Improving visual simultaneous localization and mapping (VSLAM) performance for vehicle navigation
   * Developing deep-learning-based feature extraction and matching pipelines
   * Using 3D Gaussian Splatting and precise camera calibration to enhance the system’s onboard perception capabilities
-  * <img src='/images/slam.png' style="max-width: 75%;">
+  * <img src='/images/slam_sony.gif'>
 
 * Spring 2022: Re-visiting Retrosynthesis
   * University of Massachusetts, Amherst & IBM
