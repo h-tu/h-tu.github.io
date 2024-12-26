@@ -39,7 +39,7 @@ redirect_from:
 
 * Photography
   - Click Instagram on left for more
-  - A7M3 + 20 G, 35 GM, Sigma 105, 24-105 G, Sigma 100-400
+  - A7M3 + 20 G, 16-35 PZ, 35 GM, Sigma 105, 24-105 G, Sigma 100-400
   - DJI Mini 3 Pro
   - DJI RS4
 
@@ -65,4 +65,5 @@ redirect_from:
 * Basketball
   - Started watching and (then) playing basketball after Stephen Curry won his first title
   - At TD Garden, 2022 NBA Finals G6, Steph won his fourth title: 
-  <img src='/images/b1.png' style="max-width: 50%;">
+  - <img src='/images/b1.png' style="max-width: 50%;">
+
