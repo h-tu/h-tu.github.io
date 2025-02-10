@@ -19,17 +19,18 @@ redirect_from:
 
 ---
 
-June 2024 Update: 
+June 2024: 
 
 I'm working on DL Based Visual SLAM with TensorRT Hardware Accelaration. For more details on what I do please visit the research page. 
-
-![img](images/yolo_mask.png)
 
 ---
 
 Nov 2023 Update:
 
 Working on a AR app for guitar players! Checkout my [side projects](https://h-tu.github.io/side_project/)!
+
+
+![img](images/sample0.png)
 
 ---
 
