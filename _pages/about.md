@@ -10,11 +10,10 @@ redirect_from:
 
 --- 
 
-- My research focuses are: ML, (Deep) Reinforcement Learning, Robotics, Perception
+- My research focuses are: ML, (Deep) Reinforcement Learning, Perception
 - I went to University of Maryland from 2017 to 2021 for BS in Computer Engineering with an upper-level concentration in machine learning
 - During my MSCS studies at University of Massachusetts Amherst, out of 10 [courses](https://h-tu.github.io/courses/), I completed 8 in PhD level, each with a final project
 - Working as Researcher & Software Developer since graduating in May 2023. 
-- Currently Seeking PhD Postions for Fall 2025. 
 - More about me check out [Personal](https://h-tu.github.io/personal/) Tab.
 
 ---
