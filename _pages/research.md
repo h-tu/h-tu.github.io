@@ -11,9 +11,9 @@ redirect_from:
 
 * Spring 2024: DL Based Visual SLAM: 
   * Topics: SuperPoint, SuperGlue, ORB-SLAM, Masking, 3DGS
-  * Improving visual simultaneous localization and mapping (VSLAM) performance for vehicle navigation
-  * Developing deep-learning-based feature extraction and matching pipelines
-  * Using 3D Gaussian Splatting and precise camera calibration to enhance the system’s onboard perception capabilities
+  * Developing and optimizing deep learning-based feature extraction and matching pipelines to improve Visual SLAM performance for autonomous navigation, contributing to robust perception systems under real-world conditions.
+  * Enhancing perception accuracy through camera calibration and multi-sensor fusion.
+  * Applying RL in NVIDIA Isaac Sim/Lab with ROS 2 to train control policies in simulated environments
   * <img src='/images/slam_sony.gif'>
 
 * Spring 2022: Re-visiting Retrosynthesis
