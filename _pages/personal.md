@@ -39,7 +39,8 @@ redirect_from:
 
 * Photography
   - Click Instagram on left for more
-  - A7M3 + 20 G, 16-35 PZ, 35 GM, Sigma 105, 24-105 G, Sigma 100-400
+  - A1 II, A7M3
+  - 20 G, 16-35 PZ, 35 GM, Sigma 105, 24-105 G, Sigma 100-400, Sony 400-800 G
   - DJI Mini 3 Pro
   - DJI RS4
 
