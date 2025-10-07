@@ -1,52 +1,43 @@
 ---
 permalink: /
-title: "About me"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
 
 
---- 
+[cite_start]I am a Machine Learning Engineer specializing in computer vision and reinforcement learning[cite: 14, 19, 41, 42].
 
-- My research focuses are: ML, (Deep) Reinforcement Learning, Perception
-- I went to University of Maryland from 2017 to 2021 for BS in Computer Engineering with an upper-level concentration in machine learning
-- During my MSCS studies at University of Massachusetts Amherst, out of 10 [courses](https://h-tu.github.io/courses/), I completed 8 in PhD level, each with a final project
-- Working as Researcher & Software Developer since graduating in May 2023. 
-- More about me check out [Personal](https://h-tu.github.io/personal/) Tab.
+[cite_start]Since graduating, I have been working in the industry, where my research focuses on applying deep learning to solve real-world perception challenges[cite: 19]. [cite_start]This role involves developing and optimizing algorithms for tasks like autonomous navigation and multi-sensor fusion[cite: 19, 20].
+
+[cite_start]I earned my M.S. in Computer Science from the University of Massachusetts Amherst [cite: 4, 5][cite_start], where my studies were centered on Ph.D.-level coursework in areas like Reinforcement Learning and advanced Deep Learning[cite: 14]. [cite_start]I also hold a B.S. in Computer Engineering from the University of Maryland[cite: 6, 7]. [cite_start]A highlight of my graduate work was a collaboration with the MIT-IBM Watson AI Lab, which resulted in a first-author publication at a NeurIPS 2022 workshop[cite: 47].
 
 ---
 
-June 2024: 
+### News & Personal Projects
 
-I'm working on DL Based Visual SLAM with TensorRT Hardware Accelaration. For more details on what I do please visit the research page. 
-
----
-
-Nov 2023 Update:
-
-Working on a AR app for guitar players! Checkout my [side projects](https://h-tu.github.io/side_project/)!
-
-
-![img](images/sample0.png)
+* **(In Development) JellyCATalog iOS App:** As a personal project, I am developing an iOS app called [JellyCATalog](https://jellycatalog.github.io/), which is currently in public beta. The app helps users catalog and manage their collections.
+* **(Nov 2023) AR Guitar Assistant:** I developed a prototype for an augmented reality application to assist guitar players. More details are available on my [side projects](https://h-tu.github.io/side_project/) page.
 
 ---
 
-End of Summer 2022 Update: 
+### Featured Professional Project: Real-Time Visual SLAM
 
-NeurIPS 2022 workshop paper from Research project with IBM: [Retrosynthesis Prediction Revisited](https://research.ibm.com/publications/retrosynthesis-prediction-revisited)
+[cite_start]In my current role as a Machine Learning Engineer, I am developing a high-performance Visual SLAM system for autonomous navigation[cite: 16, 19]. [cite_start]This project involves creating and optimizing deep learning pipelines for feature extraction and matching, enhanced by multi-sensor fusion to ensure robust performance in real-world conditions[cite: 19, 20].
 
---- 
+![Visual SLAM Demo Placeholder](images/vslam_demo.gif)
+---
 
-End of Fall 2021 semester update: 
+### Featured Academic Project: Autonomous Gaming Agent
 
-For my COMP SCI 682 final project, I made a program that plays the computer game [crossy road](https://www.crossyroad.com/) using Computer Vision and Reinforcement learning. ([Playing Arcade Game with Object Recognition and Reinforcement Learning](https://github.com/h-tu/course_reports/blob/main/grad_projects/682_Final_Paper.pdf))
+[cite_start]As a project at UMass Amherst, I developed an autonomous agent to play the game *Crossy Road*[cite: 37, 39]. [cite_start]The system uses a custom-trained YOLO model for real-time object detection and a Deep Q-Network (DQN) for control, which was trained on over 100 hours of gameplay data[cite: 40, 41].
 
-Here is a visual demo:
+**[Read the Full Paper on GitHub](https://github.com/h-tu/course_reports/blob/main/grad_projects/682_Final_Paper.pdf)**
 
-![img](images/showcase.gif)
+![A reinforcement learning agent playing the game Crossy Road](images/showcase.gif)
 
---- 
-
-Website was last updated on April 15, 2025. 
+---
+*Website last updated on October 7, 2025.*
