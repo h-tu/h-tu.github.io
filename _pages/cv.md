@@ -10,10 +10,10 @@ redirect_from:
 
 {% include base_path %}
 
-[Hongyu Tu CV](http://h-tu.github.io/files/Hongyu_Tu_CV_April_2025.pdf)
+[Hongyu Tu CV](http://h-tu.github.io/files/Hongyu_Tu_CV_Aug_2025.pdf)
 
 
-Last Update: April 15, 2025
+Last Update: Oct 7, 2025
 
 
 <!-- [Hongyu Tu Work CV](http://h-tu.github.io/files/Hongyu_Tu_SWE.pdf)
