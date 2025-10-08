@@ -32,7 +32,7 @@ In my current role as a Machine Learning Engineer, I am developing a high-perfor
 
 ### Featured Academic Project: Autonomous Gaming Agent
 
-As a course project at UMass Amherst, I developed an autonomous agent to play the game *Crossy Road*[cite: 37, 39]. The system uses a custom-trained YOLO model for real-time object detection and a Deep Q-Network (DQN) for control, which was trained on over 100 hours of gameplay data.
+As a course project at UMass Amherst, I developed an autonomous agent to play the game *Crossy Road*. The system uses a custom-trained YOLO model for real-time object detection and a Deep Q-Network (DQN) for control, which was trained on over 100 hours of gameplay data.
 
 **[Read the Full Paper on GitHub](https://github.com/h-tu/course_reports/blob/main/grad_projects/682_Final_Paper.pdf)**
 
