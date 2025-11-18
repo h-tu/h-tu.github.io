@@ -17,7 +17,7 @@ redirect_from:
 
 ### News & Personal Projects
 
-* **(In Development) JellyCATalog iOS App:** As a personal project, I am developing an iOS app called [JellyCATalog](https://jellycatalog.github.io/), which is currently in public beta. The app helps users catalog and manage their collections.
+* **(In Development) JellyCATalog iOS App:** As a personal project, I am developing an iOS app called [JellyCATalog](https://jellycatalog.pages.dev/), which is currently in public beta. The app helps users catalog and manage their collections.
 * **(Nov 2023) AR Guitar Assistant:** I developed a prototype for an augmented reality application to assist guitar players. More details are available on my [side projects](https://h-tu.github.io/side_project/) page.
 ![img](images/sample0.png)
 
