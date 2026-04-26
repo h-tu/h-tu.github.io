@@ -110,3 +110,12 @@ export function Bluesky(svgProps: SVGProps<SVGSVGElement>) {
     </svg>
   )
 }
+
+export function Scholar(svgProps: SVGProps<SVGSVGElement>) {
+  return (
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" {...svgProps}>
+      <title>Google Scholar</title>
+      <path d="M5.242 13.769L0.5 9.5 12 0l11.5 9.5-4.758 4.269C17.402 12.424 14.856 11.5 12 11.5s-5.402 0.924-6.758 2.269zM12 12.5c-3.976 0-7.191 1.954-7.815 4.5H19.815c-0.624-2.546-3.839-4.5-7.815-4.5zM12 19c-1.381 0-2.5 1.119-2.5 2.5s1.119 2.5 2.5 2.5 2.5-1.119 2.5-2.5-1.119-2.5-2.5-2.5z" />
+    </svg>
+  )
+}

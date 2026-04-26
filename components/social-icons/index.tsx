@@ -11,6 +11,7 @@ import {
   Instagram,
   Medium,
   Bluesky,
+  Scholar,
 } from './icons'
 
 const components = {
@@ -26,6 +27,7 @@ const components = {
   instagram: Instagram,
   medium: Medium,
   bluesky: Bluesky,
+  scholar: Scholar,
 }
 
 type SocialIconProps = {
@@ -57,5 +59,7 @@ const SocialIcon = ({ kind, href, size = 8 }: SocialIconProps) => {
     </a>
   )
 }
+
+
 
 export default SocialIcon

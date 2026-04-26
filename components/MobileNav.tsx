@@ -8,7 +8,12 @@ import headerNavLinks from '@/data/headerNavLinks'
 
 const MobileNav = () => {
   const [navShow, setNavShow] = useState(false)
+  const [isMounted, setIsMounted] = useState(false)
   const navRef = useRef(null)
+
+  useEffect(() => {
+    setIsMounted(true)
+  }, [])
 
   const onToggleNav = () => {
     setNavShow((status) => {
@@ -42,6 +47,8 @@ const MobileNav = () => {
           />
         </svg>
       </button>
+      
+      {isMounted && (
       <Transition appear show={navShow} as={Fragment} unmount={false}>
         <Dialog as="div" onClose={onToggleNav} unmount={false}>
           <TransitionChild
@@ -101,6 +108,7 @@ const MobileNav = () => {
           </TransitionChild>
         </Dialog>
       </Transition>
+      )}
     </>
   )
 }

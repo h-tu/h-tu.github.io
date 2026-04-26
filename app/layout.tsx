@@ -36,9 +36,9 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: './',
-    types: {
-      'application/rss+xml': `${siteMetadata.siteUrl}/feed.xml`,
-    },
+    // types: {
+    //   'application/rss+xml': `${siteMetadata.siteUrl}/feed.xml`,
+    // },
   },
   robots: {
     index: true,
@@ -93,7 +93,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <meta name="msapplication-TileColor" content="#000000" />
       <meta name="theme-color" media="(prefers-color-scheme: light)" content="#fff" />
       <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#000" />
-      <link rel="alternate" type="application/rss+xml" href={`${basePath}/feed.xml`} />
+      {/* <link rel="alternate" type="application/rss+xml" href={`${basePath}/feed.xml`} /> */}
       <body className="bg-white pl-[calc(100vw-100%)] text-black antialiased dark:bg-gray-950 dark:text-white">
         <ThemeProviders>
           <Analytics analyticsConfig={siteMetadata.analytics as AnalyticsConfig} />
