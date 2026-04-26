@@ -14,7 +14,7 @@ export default function Footer() {
           <SocialIcon kind="instagram" href={siteMetadata.instagram} size={6} />
           <SocialIcon kind="scholar" href={siteMetadata.scholar} size={6} />
         </div>
-        
+
         {/* 版权与作者信息区域 */}
         <div className="mb-2 flex space-x-2 text-sm text-gray-500 dark:text-gray-400">
           <div>{siteMetadata.author}</div>
@@ -23,7 +23,7 @@ export default function Footer() {
           <div>{` • `}</div>
           <Link href="/">{siteMetadata.title}</Link>
         </div>
-        
+
         {/* 模版致谢链接 */}
         <div className="mb-4 text-sm text-gray-500 dark:text-gray-400">
           <Link href="https://github.com/timlrx/tailwind-nextjs-starter-blog">
@@ -34,9 +34,9 @@ export default function Footer() {
         {/* ClustrMaps 访客地图挂件 */}
         <div className="mb-8 flex justify-center">
           <a href="https://clustrmaps.com/site/1c39e" title="ClustrMaps">
-            <img 
-              src="//www.clustrmaps.com/map_v2.png?d=opJZsCxwV_VI6ILhWC5AACdgDdNh-DdABq7AoOdt5ds&cl=ffffff" 
-              alt="ClustrMaps" 
+            <img
+              src="//www.clustrmaps.com/map_v2.png?d=opJZsCxwV_VI6ILhWC5AACdgDdNh-DdABq7AoOdt5ds&cl=ffffff"
+              alt="ClustrMaps"
             />
           </a>
         </div>
