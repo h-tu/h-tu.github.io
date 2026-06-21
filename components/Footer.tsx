@@ -31,15 +31,6 @@ export default function Footer() {
           </Link>
         </div>
 
-        {/* ClustrMaps 访客地图挂件 */}
-        <div className="mb-8 flex justify-center">
-          <a href="https://clustrmaps.com/site/1c39e" title="ClustrMaps">
-            <img
-              src="//www.clustrmaps.com/map_v2.png?d=opJZsCxwV_VI6ILhWC5AACdgDdNh-DdABq7AoOdt5ds&cl=ffffff"
-              alt="ClustrMaps"
-            />
-          </a>
-        </div>
       </div>
     </footer>
   )
